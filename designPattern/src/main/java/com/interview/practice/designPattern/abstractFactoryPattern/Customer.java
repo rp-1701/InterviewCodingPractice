@@ -6,7 +6,6 @@ import com.interview.practice.designPattern.abstractFactoryPattern.furnitureFact
  * Abstract Factory Pattern is used when families of related products is designed to be used together and it is
  * required to ensure that the products from the same family are used together. The pattern is used to create
  * a set of related objects, or dependent objects without specifying their concrete classes.
- *
  */
 public class Customer {
 
