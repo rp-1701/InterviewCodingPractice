@@ -8,6 +8,9 @@ import com.interview.practice.designPattern.decoratorPattern.toppingDecorator.Ch
 import com.interview.practice.designPattern.decoratorPattern.toppingDecorator.ExtraVegies;
 import com.interview.practice.designPattern.decoratorPattern.toppingDecorator.Jalepeno;
 
+/**
+ * Decorator Pattern allows dynamic addition of responsibilities to objects without modifying their existing code
+ */
 public class Customer {
 
     public static void main(String[] args) {
