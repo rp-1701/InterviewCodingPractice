@@ -1,0 +1,22 @@
+This file contains the info required for the Tic Tac Toe game.
+
+Functional Requirements:
+--------------------------
+1. The game should be played by two players.
+2. The game should be played on a 3x3 grid.
+3. The game should be played by taking turns.
+4. The game should be won by a player who places three of their marks in a horizontal, vertical, or diagonal row.
+5. The game should be drawn if all the cells are filled and no player has won.
+6. The game should be restarted if the players want to play again.
+7. The game should display the current state of the board after each move.
+8. The game should display the winner if a player wins.
+9. The game should display the draw message if the game is drawn.
+
+enum ---> mark {X, O}
+class ---> Player {name, mark}
+class ---> Board {cells[3][3]}
+
+
+
+Non-Functional Requirements:
+--------------------------
