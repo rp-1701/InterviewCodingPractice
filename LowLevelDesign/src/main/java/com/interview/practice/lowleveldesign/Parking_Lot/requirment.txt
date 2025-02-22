@@ -1,0 +1,46 @@
+------------------------
+-----------------------
+DO NOT ASSUME ANYTHING
+-----------------------
+------------------------
+
+High Level Overview of Parking Lot
+-----------------------------------
+Vehicle enters the entrance gate and the ticket is generated.
+The ticket contains the vehicle number and the time of entry.
+The vehicle is parked in the parking lot.
+When the vehicle exits the parking lot, the ticket is used to calculate the parking fee.
+The parking fee is calculated based on the time spent in the parking lot.
+The vehicle exits the parking lot and the ticket is returned to the driver.
+
+
+Functional Requirements:
+---------------------------
+1. The system should be able to generate a parking ticket when a vehicle enters the parking lot.
+2. The ticket should contain the vehicle number and the time of entry.
+3. The system should be able to park a vehicle in the parking lot.
+4. The system should be able to calculate the parking fee when a vehicle exits the parking lot.
+5. The parking fee should be calculated based on the time spent in the parking lot.
+6. The system should be able to return the ticket when the vehicle exits the parking lot.
+7. No of Entrance and Exit gates.
+8. Type of Vehicle ---> same type of parking spot.
+9. Parking Spot availability.
+10. Parking Spot allocation. (nearest parking spot, random parking spot)
+11. Parking Fee calculation. (Hourly, Minute)
+12. Parking Fee payment. (Payment Method allowed)
+
+
+Identify Entities:
+-------------------
+1. Vehicle (vehicle number, vehicle type(two-wheeler, four-wheeler))
+2. Parking Ticket (ticket number, vehicle number, time of entry, parking spot number, parking fee(according to vehicle type))
+3. Parking spot (Parking spot number, availability, type of parking spot)
+4. Parking Fee (variable based on vehicle type, time spent in the parking lot)
+5. Entrance Gate (find parking spot, update parking spot availability, generate parking ticket)
+6. Exit Gate (calculate parking fee, payment processing, update parking spot availability)
+
+
+
+
+Non-Functional Requirements:
+-----------------------------
