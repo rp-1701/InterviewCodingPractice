@@ -20,6 +20,8 @@ public class Client {
         integerStringCustomHashMap.remove(4);
         System.out.println("hashMap after removing key 4");
         integerStringCustomHashMap.display();
+        System.out.println("checking the contains method for key 4 : "+ integerStringCustomHashMap.contains(4));
+        System.out.println("checking the contains method for key 5 : "+ integerStringCustomHashMap.contains(5));
     }
 
 }
