@@ -11,6 +11,10 @@ public class CustomLinkedHashMap<K,V> {
         this.hashtable = new Entry[initial_size];
     }
 
+    public int getSize() {
+        return initial_size;
+    }
+
     private class Entry<K,V> {
         K key;
         V value;

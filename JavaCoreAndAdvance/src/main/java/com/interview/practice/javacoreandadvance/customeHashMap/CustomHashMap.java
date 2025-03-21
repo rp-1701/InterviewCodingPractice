@@ -9,6 +9,10 @@ public class CustomHashMap<K, V> {
         hashtable = new Entry[initial_size];
     }
 
+    public int getSize() {
+        return initial_size;
+    }
+
     private static class Entry<K, V> {
 
         K key;
@@ -127,6 +131,19 @@ public class CustomHashMap<K, V> {
             temp = temp.next;
         }
         return false;
+    }
+
+    public void displaySet() {
+        for(int i = 0; i < initial_size; i++) {
+            Entry<K, V> kvEntry = hashtable[i];
+            if(kvEntry != null) {
+                Entry<K,V> temp = kvEntry;
+                while(temp != null) {
+                    System.out.print(temp.key + " ");
+                    temp = temp.next;
+                }
+            }
+        }
     }
 
 }
