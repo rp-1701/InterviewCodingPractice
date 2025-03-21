@@ -8,10 +8,10 @@ This repo contains preparation material for below section
 - [Low Level Design](#low-level-design)
 
 ### Java Core and Advance
-- [How to create a custom HashMap.](com/interview/practice/javacoreandadvance/customeHashMap)
-- [How to create a custom Linked HashMap.](src/main/java/com/interview/practice/javacoreandadvance/customeLinkedHashMap)
+- [How to create a custom HashMap.](JJavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeHashMap/CustomHashMap.java)
+- [How to create a custom Linked HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeLinkedHashMap/CustomLinkedHashMap.java)
 - [How to use Thread join() method.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/Factorial.java)
-- [Password Guessing using Multi-threading](src/main/java/com/interview/practice/javacoreandadvance/multiThreading/ThreadCreate.java)
+- [Password Guessing using Multi-threading](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/ThreadCreate.java)
 
 ### Design Pattern
 
