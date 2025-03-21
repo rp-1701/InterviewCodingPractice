@@ -21,6 +21,8 @@ public class Client {
         integerStringCustomLinkedHashMap.remove(4);
         System.out.println("hashMap after removing key 4");
         integerStringCustomLinkedHashMap.display();
+        System.out.println("checking the contains method for key 4 : "+ integerStringCustomLinkedHashMap.contains(4));
+        System.out.println("checking the contains method for key 5 : "+ integerStringCustomLinkedHashMap.contains(5));
     }
 
 }

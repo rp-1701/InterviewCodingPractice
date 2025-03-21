@@ -141,4 +141,20 @@ public class CustomLinkedHashMap<K,V> {
             }
         }
     }
+
+    public boolean contains(K searchKey) {
+        int index = getHash(searchKey);
+        Entry<K, V> kvEntry = hashtable[index];
+        if(kvEntry == null) {
+            return false;
+        }
+        Entry<K, V> temp = kvEntry;
+        while(temp != null) {
+            if(temp.key.equals(searchKey)) {
+                return true;
+            }
+            temp = temp.next;
+        }
+        return false;
+    }
 }
