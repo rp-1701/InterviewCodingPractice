@@ -1,6 +1,5 @@
 package com.interview.practice.javacoreandadvance.customArrayList;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 public class CustomArrayList<E> {
