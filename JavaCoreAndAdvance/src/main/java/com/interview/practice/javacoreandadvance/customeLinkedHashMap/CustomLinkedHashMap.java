@@ -161,4 +161,12 @@ public class CustomLinkedHashMap<K,V> {
         }
         return false;
     }
+
+    public void displaySet() {
+        Entry<K,V> temp = head;
+        while(temp != null) {
+            System.out.print(temp.key + " ");
+            temp = temp.after;
+        }
+    }
 }
