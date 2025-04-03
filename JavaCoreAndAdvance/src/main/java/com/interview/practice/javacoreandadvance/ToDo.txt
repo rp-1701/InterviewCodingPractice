@@ -1,0 +1,8 @@
+1. implement Type safe bounded buffer
+2. Rate limiting algorithm
+    a. token bucket algorithm
+    b. fixed window algorithm
+    c. sliding window algorithm
+    d. leaky bucket algorithm
+    e. adaptive algorithm
+    f. Distributed algorithm
