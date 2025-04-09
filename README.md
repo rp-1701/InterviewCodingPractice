@@ -19,6 +19,17 @@ This repo contains preparation material for below section
 - [How to create thread-safe Counter](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter/CounterClient.java)
 - [How to create thread-safe Counter using Atomic Operation](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter/AtomicCounterClient.java)
 
+### SpringBoot Core and Advance
+
 ### Design Pattern
+- [Observer Pattern](designPattern/src/main/java/com/interview/practice/designPattern/observerPattern/StockAdministrator.java)
+- [Factory Pattern](designPattern/src/main/java/com/interview/practice/designPattern/factoryPattern/User.java)
+- [Abstract Factory Pattern](designPattern/src/main/java/com/interview/practice/designPattern/abstractFactoryPattern/Customer.java)
+- [Decorator Pattern](designPattern/src/main/java/com/interview/practice/designPattern/decoratorPattern/Customer.java)
+- [Strategy Pattern](designPattern/src/main/java/com/interview/practice/designPattern/strategyPattern/User.java)
+
 
 ### Low Level Design
+- [Tic Tac Toe Game](LowLevelDesign/src/main/java/com/interview/practice/lowleveldesign/Tic_Tac_Toe/TicTacToeGame.java)
+- Rate Limiting Algorithm
+  - [Token Bucket algorithm](LowLevelDesign/src/main/java/com/interview/practice/lowleveldesign/rateLimiting_algorithm/token_bucket/TokenBucketClient.java)
