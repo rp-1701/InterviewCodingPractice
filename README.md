@@ -8,6 +8,8 @@ This repo contains preparation material for below section
 - [Low Level Design](#low-level-design)
 
 ### Java Core and Advance
+- [How to use Comparable while Sorting](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/comparable)
+- [How to use Comparator while Sorting](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/comparator)
 - [How to create a custom HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeHashMap/CustomHashMap.java)
 - [How to create a custom Linked HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeLinkedHashMap/CustomLinkedHashMap.java)
 - [How to use Thread join() method.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/Factorial.java)
