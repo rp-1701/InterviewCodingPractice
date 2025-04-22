@@ -1,4 +1,4 @@
-package com.interview.practice.javacoreandadvance.multiThreading;
+package com.interview.practice.javacoreandadvance.multiThreading.patternPrinting;
 
 public class EvenOdd {
 
