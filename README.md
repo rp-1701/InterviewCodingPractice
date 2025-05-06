@@ -18,7 +18,6 @@ This repo contains preparation material for below section
 - [Producer Consumer Problem](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/producerConsumerProblem)
 - [How to create thread-safe Counter](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter)
   - (Follow up)[How to create thread-safe Counter using Atomic Operation](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter)
-
 - Inter-Thread Communication 
   - Easy
     - [Print Even Odd Pattern using wait() and notify()](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/evenOddVersion1)
@@ -29,7 +28,6 @@ This repo contains preparation material for below section
     - [Print AB Pattern using 2 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/ABpatternPrint)
     - [Print ABC pattern using 3 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/ABCpatternPrint)
     - [Print 1 to N using M Threads](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/OneToNroundRobin)
-  
 
 ### SpringBoot Core and Advance
 
