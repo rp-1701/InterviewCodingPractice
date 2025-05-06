@@ -10,14 +10,14 @@ This repo contains preparation material for below section
 ### Java Core and Advance
 - [How to use Comparable while Sorting](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/comparable)
 - [How to use Comparator while Sorting](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/comparator)
-- [How to create a custom ArrayList.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customArrayList/CustomArrayList.java)
-- [How to create a custom HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeHashMap/CustomHashMap.java)
-- [How to create a custom Linked HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeLinkedHashMap/CustomLinkedHashMap.java)
-- [How to use Thread join() method.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/Factorial.java)
-- [Password Guessing using Multi-threading](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/ThreadCreate.java)
+- [How to create a custom ArrayList.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customArrayList)
+- [How to create a custom HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeHashMap)
+- [How to create a custom Linked HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeLinkedHashMap)
+- [How to use Thread join() method.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading)
+- [Password Guessing using Multi-threading](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading)
 - [Producer Consumer Problem](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/producerConsumerProblem)
-- [How to create thread-safe Counter](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter/CounterClient.java)
-  - (Follow up)[How to create thread-safe Counter using Atomic Operation](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter/AtomicCounterClient.java)
+- [How to create thread-safe Counter](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter)
+  - (Follow up)[How to create thread-safe Counter using Atomic Operation](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter)
 
 - Inter-Thread Communication 
   - Easy
