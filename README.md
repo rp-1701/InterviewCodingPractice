@@ -15,14 +15,21 @@ This repo contains preparation material for below section
 - [How to create a custom Linked HashMap.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/customeLinkedHashMap/CustomLinkedHashMap.java)
 - [How to use Thread join() method.](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/Factorial.java)
 - [Password Guessing using Multi-threading](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/ThreadCreate.java)
-- Inter-Thread Communication
-  - [Producer Consumer Problem](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/producerConsumerProblem)
-  - [Print Even Odd Number in Alternate](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/patternPrinting/EvenOdd.java)
-  - [Print Letter Number in Alternate](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/patternPrinting/LetterNumber.java)
-  - [Print AB Pattern using 2 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/patternPrinting/PatternPrint.java)
-  - [Print ABC pattern using 3 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/patternPrinting/ABCPatternPrint.java)
+- [Producer Consumer Problem](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/producerConsumerProblem)
 - [How to create thread-safe Counter](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter/CounterClient.java)
-- [How to create thread-safe Counter using Atomic Operation](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter/AtomicCounterClient.java)
+  - (Follow up)[How to create thread-safe Counter using Atomic Operation](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/threadSaleCounter/AtomicCounterClient.java)
+
+- Inter-Thread Communication 
+  - Easy
+    - [Print Even Odd Pattern using wait() and notify()](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/evenOddVersion1)
+      - (Follow up)[Print Even Odd Pattern using threadID](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/evenOddVersion3) 
+    - [Print Even Odd Pattern using wait(), notify(), and toggle flag](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/evenOddVersion2)
+    - [Print Even Odd Pattern using Semaphore](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/evenOddUsingSemaphore)
+    - [Print Letter Number in Alternate](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/LetterNumberAlternate)
+    - [Print AB Pattern using 2 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/ABpatternPrint)
+    - [Print ABC pattern using 3 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/ABCpatternPrint)
+    - [Print 1 to N using M Threads](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/OneToNroundRobin)
+  
 
 ### SpringBoot Core and Advance
 

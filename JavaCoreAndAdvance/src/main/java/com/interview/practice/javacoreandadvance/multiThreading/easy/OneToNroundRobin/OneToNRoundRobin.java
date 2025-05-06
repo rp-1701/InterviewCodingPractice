@@ -1,4 +1,4 @@
-package com.interview.practice.javacoreandadvance.multiThreading.patternPrinting;
+package com.interview.practice.javacoreandadvance.multiThreading.easy.OneToNroundRobin;
 
 import java.util.ArrayList;
 import java.util.List;

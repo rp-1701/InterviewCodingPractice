@@ -1,4 +1,4 @@
-package com.interview.practice.javacoreandadvance.multiThreading.patternPrinting;
+package com.interview.practice.javacoreandadvance.multiThreading.easy.LetterNumberAlternate;
 
 public class LetterNumber {
 
