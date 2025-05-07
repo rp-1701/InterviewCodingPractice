@@ -100,9 +100,9 @@ public class CustomHashMap<K, V> {
                         previous.next = head.next;
                         head.next = null;
                     }
-                    previous = head;
-                    head = head.next;
                 }
+                previous = head;
+                head = head.next;
             }
         }
     }
@@ -120,12 +120,12 @@ public class CustomHashMap<K, V> {
     public boolean contains(K searchKey) {
         int index = getHash(searchKey);
         Entry<K, V> kvEntry = hashtable[index];
-        if(kvEntry == null) {
+        if (kvEntry == null) {
             return false;
         }
         Entry<K, V> temp = kvEntry;
-        while(temp != null) {
-            if(temp.key.equals(searchKey)) {
+        while (temp != null) {
+            if (temp.key.equals(searchKey)) {
                 return true;
             }
             temp = temp.next;
@@ -134,11 +134,11 @@ public class CustomHashMap<K, V> {
     }
 
     public void displaySet() {
-        for(int i = 0; i < initial_size; i++) {
+        for (int i = 0; i < initial_size; i++) {
             Entry<K, V> kvEntry = hashtable[i];
-            if(kvEntry != null) {
-                Entry<K,V> temp = kvEntry;
-                while(temp != null) {
+            if (kvEntry != null) {
+                Entry<K, V> temp = kvEntry;
+                while (temp != null) {
                     System.out.print(temp.key + " ");
                     temp = temp.next;
                 }

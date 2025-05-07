@@ -12,6 +12,7 @@ public class Client {
         integerStringCustomHashMap.put(1, "Indore"); // this should override Delhi
         integerStringCustomHashMap.put(5, "Washington DC");
         integerStringCustomHashMap.put(6,"Mexico");
+        integerStringCustomHashMap.put(8,"Mumbai");
 
         integerStringCustomHashMap.display();
 
