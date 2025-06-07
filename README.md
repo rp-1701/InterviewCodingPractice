@@ -28,6 +28,7 @@ This repo contains preparation material for below section
     - [Print Letter Number in Alternate](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/LetterNumberAlternate)
     - [Print AB Pattern using 2 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/ABpatternPrint)
     - [Print ABC pattern using 3 thread](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/ABCpatternPrint)
+    - [Print ABC pattern using semaphore](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/ABCpatternPrintUsingSemaphore)
     - [Print 1 to N using M Threads](JavaCoreAndAdvance/src/main/java/com/interview/practice/javacoreandadvance/multiThreading/easy/OneToNroundRobin)
 
 ### SpringBoot Core and Advance
