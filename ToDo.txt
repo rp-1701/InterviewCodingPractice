@@ -6,3 +6,14 @@
     d. leaky bucket algorithm
     e. adaptive algorithm
     f. Distributed algorithm
+3. implement stack using array
+4. implement queue using array
+5. implement circular queue using array.
+6. implement stack using one queue.
+7. implement stack using two queues.
+8. implement queue using two stacks where push() is O(n) and pop() is O(1).
+9. implement queue using two stack where push is O(1) and pop is O(n).
+10. implement stack using linked list.
+11. implement queue using linked list.
+
+
