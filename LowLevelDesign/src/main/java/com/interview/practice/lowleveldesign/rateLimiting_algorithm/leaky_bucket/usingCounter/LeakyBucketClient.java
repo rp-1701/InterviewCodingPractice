@@ -1,4 +1,4 @@
-package com.interview.practice.lowleveldesign.rateLimiting_algorithm.leaky_bucket;
+package com.interview.practice.lowleveldesign.rateLimiting_algorithm.leaky_bucket.usingCounter;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

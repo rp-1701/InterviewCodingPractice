@@ -1,4 +1,4 @@
-package com.interview.practice.lowleveldesign.rateLimiting_algorithm.leaky_bucket;
+package com.interview.practice.lowleveldesign.rateLimiting_algorithm.leaky_bucket.usingCounter;
 
 public class LeakyBucket {
 
