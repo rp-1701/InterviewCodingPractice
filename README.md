@@ -45,3 +45,5 @@ This repo contains preparation material for below section
 - [Tic Tac Toe Game](LowLevelDesign/src/main/java/com/interview/practice/lowleveldesign/Tic_Tac_Toe/TicTacToeGame.java)
 - Rate Limiting Algorithm
   - [Token Bucket algorithm](LowLevelDesign/src/main/java/com/interview/practice/lowleveldesign/rateLimiting_algorithm/token_bucket/TokenBucketClient.java)
+  - [Leaky Bucket algorithm using Counter](LowLevelDesign/src/main/java/com/interview/practice/lowleveldesign/rateLimiting_algorithm/leaky_bucket/usingCounter)
+  - [Leaky Bucket algorithm using Queue](LowLevelDesign/src/main/java/com/interview/practice/lowleveldesign/rateLimiting_algorithm/leaky_bucket/usingQueue)
